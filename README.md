@@ -1,4 +1,4 @@
-## SyncConfig
+# SyncConfig
 This tool is a command-line utility for synchronizing a file from a specified URL to a local directory. It automatically updates the local file if it differs from the remote file.
 
 ## Installing 
