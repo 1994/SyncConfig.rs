@@ -12,6 +12,9 @@ cd SyncConfig.rs
 ```
 
 2. Build with Cargo:
+```bash
+cargo build --release
+```
 
 3. The executable will be located in target/release/.
 
